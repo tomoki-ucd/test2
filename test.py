@@ -4,8 +4,7 @@ CUSTOM_TEMPLATE = "README.md"
 assert Path(CUSTOM_TEMPLATE).is_file()
 
 def main():
-  print("hello, world")
-  print("Bye")
+  print("Hello, world")
 
 
 if __name__ == "__main__":
