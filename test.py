@@ -5,6 +5,7 @@ assert Path(CUSTOM_TEMPLATE).is_file()
 
 def main():
   print("Hello, world")
+  print("Good bye")
 
 
 if __name__ == "__main__":
